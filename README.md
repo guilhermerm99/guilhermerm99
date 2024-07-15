@@ -48,6 +48,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guilhermerm99/guilhermerm99/output/snake.svg" alt="Snake animation" />
+<div align="left">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermerm99/guilhermerm99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermerm99/guilhermerm99/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermerm99/guilhermerm99/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ###
